@@ -32,14 +32,14 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 ### Debugging Server with VS Code
 
 * Use the VS Code Launcher `1. Launch Server`
-* http://localhost:3000 - ./ server
-* http://localhost:3000/api - ./api server
+* http://localhost:8080 - ./ server
+* http://localhost:8080/api - ./api server
 
 ### Debugging Docker Container
 Make sure things work locally in the `eb local run` runner!
 
 * Run `eb local run`
-* Open http://localhost:3000
+* Open http://localhost:8080
 
 ### Debugging Docker Containers
 | cmd | details |
