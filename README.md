@@ -1,5 +1,5 @@
-# debugging-dart-webserver
-Debugging a Dart HTTP web server.
+# Debugging & Deploying a Dart Web Server
+Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 
 
 ## Debugging
