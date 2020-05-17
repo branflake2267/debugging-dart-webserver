@@ -15,7 +15,7 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 | Architecture | Dart |
 | IDE | Visual Studio Code |
 | CI | Travis CI |
-| Hosted | Elastic Beanstalk |
+| Hosting | Elastic Beanstalk |
 | License | GPL v3 |
 | Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=xxxx) |
 
