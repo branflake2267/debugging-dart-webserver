@@ -5,6 +5,7 @@
 
 FROM google/dart
 
+# Set the docker container config like the Dockerrun.aws.json config.
 WORKDIR /app
 
 # Emulate AWS docker container parent/guest volume/mount points

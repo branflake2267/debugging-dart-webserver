@@ -12,7 +12,9 @@ script:
   - pwd
   - ls
 
+# Deploy configuration
 # Note: Be sure region has the bucket and application in that region.
+# Note: See the readme init instructions on how I created this project.
 deploy:
   - provider: elasticbeanstalk
     edge: true
