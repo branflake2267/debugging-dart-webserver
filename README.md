@@ -8,7 +8,7 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 
 ## Debugging with Dart CLI
 
-* Run `dart ./lib/server.dart`
+* Run `dart ./server/lib/server.dart`
 
 ## Debugging with VS Code
 

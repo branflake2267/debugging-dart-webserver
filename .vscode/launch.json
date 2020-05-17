@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Launch Web Server",
-      "program": "lib/server.dart",
+      "program": "server/lib/server.dart",
       "request": "launch",
       "type": "dart"
     }
