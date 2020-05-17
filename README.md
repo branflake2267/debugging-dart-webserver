@@ -98,7 +98,7 @@ This will create a project file [./.elasticbeanstalk/config.yml](./.elasticbeans
 #### Create Elastic Beanstalk Environment.
 Set up an Elastic environment for your application. 
 
-Run `eb create sandbox-staging-v1` where `sandbox-staging-v1` is the enviornment name you choose. 
+Run `eb create dartserver-staging-v1` where `dartserver-staging-v1` is the enviornment name you choose. 
 
 ### Docker Config
 The `Dockerrun.aws.json` will configure the docker container when deployed. 
