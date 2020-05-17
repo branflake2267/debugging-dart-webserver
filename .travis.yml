@@ -9,6 +9,7 @@ install:
 
 script:
   - pwd
+  - ls
 
 # Note: Be sure region has the bucket and application in that region.
 deploy:
