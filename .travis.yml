@@ -4,6 +4,7 @@ dart:
   - stable
 
 install:
+  - cd server
   - pub get
 
 script:
