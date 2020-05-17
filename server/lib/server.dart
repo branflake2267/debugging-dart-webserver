@@ -3,7 +3,7 @@ import 'dart:io';
 /// Use a VS Code launcher to launch this
 /// OR use dart CLI Run `dart ./lib/server.dart`
 main() async {
-  var server = await HttpServer.bind(InternetAddress.loopbackIPv4, 8080);
+  var server = await HttpServer.bind(InternetAddress.loopbackIPv4, 3000);
   print("Serving at ${server.address}:${server.port}");
 
   await for (var request in server) {

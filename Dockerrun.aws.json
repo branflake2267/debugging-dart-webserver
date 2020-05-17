@@ -1,0 +1,39 @@
+  {
+  "AWSEBDockerrunVersion": 2,
+  "volumes": [
+    {
+      "name": "web-app",
+      "host": {
+        "sourcePath": "/var/app/current/"
+      }
+    }
+  ],
+  "containerDefinitions": [
+    {
+      "name": "web-app",
+      "image": "google/dart",
+      "essential": true,
+      "memory": 256,
+
+      "command": [
+        "dart",
+        "/app/server/server.dart"
+      ],
+
+      "mountPoints": [
+        {
+          "sourceVolume": "web-app",
+          "containerPath": "/app",
+          "readOnly": true
+        }
+      ],
+
+      "portMappings": [
+        {
+          "hostPort": 80,
+          "containerPort": 3000
+        }
+      ]
+    }
+  ]
+}
