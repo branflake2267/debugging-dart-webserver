@@ -19,9 +19,7 @@ Debugging a Dart HTTP web server.
 ## Init Reference
 
 ### Install Dart
-The dart tools are required to use this project. 
-
-* [Install Dart](https://dart.dev/get-dart)
+The [dart tools](https://dart.dev/get-dart) are required to use this project. 
 
 ### Install VS Code Dart Plugin
 Install the Dart VS Code plugin. 
