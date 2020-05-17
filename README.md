@@ -6,7 +6,7 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 [![Debugging Video Tutorial](https://img.youtube.com/vi/xxxxxx/0.jpg)](https://www.youtube.com/watch?v=xxxxxx)
 
 
-## Project Configuration
+## Project Configuration 
 | Setting | Value |
 | --- | --- |
 | Purpose | Debugging dart web server deployed in a multi-container docker config hosted on Elastic Beanstalk |
