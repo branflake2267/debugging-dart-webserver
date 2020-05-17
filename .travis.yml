@@ -6,6 +6,7 @@ dart:
 install:
   - cd server
   - pub get
+  - cd ../
 
 script:
   - pwd
