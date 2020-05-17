@@ -7,8 +7,6 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 
 
 ## Project Configuration
-This is the part 2 project configuration.
-
 | Setting | Value |
 | --- | --- |
 | Purpose | Debugging dart web server deployed in a multi-container docker config hosted on Elastic Beanstalk |
