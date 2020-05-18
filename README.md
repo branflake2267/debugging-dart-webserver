@@ -3,7 +3,7 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 
 [![Build Status](https://www.travis-ci.org/branflake2267/debugging-dart-webserver.svg?branch=master)](https://www.travis-ci.org/branflake2267/debugging-dart-webserver)
 
-[![Debugging Video Tutorial](https://img.youtube.com/vi/xxxxxx/0.jpg)](https://www.youtube.com/watch?v=xxxxxx)
+[![Debugging Video Tutorial](https://img.youtube.com/vi/k_NmD1qmDcA/0.jpg)](https://www.youtube.com/watch?v=k_NmD1qmDcA)
 
 
 ## Project Configuration 
@@ -17,7 +17,7 @@ Debugging and deploying Dart HTTP web server to Elastic Beanstalk.
 | CI | Travis CI |
 | Hosting | Elastic Beanstalk |
 | License | GPL v3 |
-| Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=xxxx) |
+| Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=k_NmD1qmDcA) |
 
 
 

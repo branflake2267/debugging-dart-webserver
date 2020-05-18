@@ -27,9 +27,9 @@ void handleRequest(HttpRequest request) {
   }
 }
 
-/// http://localhost:3000 - html response
-/// http://localhost:3000/api - html response
-/// http://localhost:3000/api/getMessage - json response
+/// http://localhost:8080 - html response
+/// http://localhost:8080/api - html response
+/// http://localhost:8080/api/getMessage - json response
 void handleGet(HttpRequest request) {
   final uri = request.uri;
   if (uri.path == '/api') {
